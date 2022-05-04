@@ -4,7 +4,6 @@ this is a one stop todo app .
 ### Features
 
 * [ ] Add a login page
-* [ ] Authenticate using JWT
 * [ ] ADD -> UPDATE -> DELETE todo
 * [ ] settings page
 * [ ] protected routing
@@ -13,7 +12,6 @@ this is a one stop todo app .
 
 * [ ] add a route to signin
 * [ ] add a route to signup
-* [ ] authenticate using jwt
 * [ ] load pre-exisiting todos for the user
 * [ ] add a new todo
 * [ ] update the todo
